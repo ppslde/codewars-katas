@@ -21,4 +21,8 @@
 		</PackageReference>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <ProjectReference Include="..\Kata.TheLift\Kata.TheLift.csproj" />
+	</ItemGroup>
+
 </Project>
