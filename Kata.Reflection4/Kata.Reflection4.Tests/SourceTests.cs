@@ -26,6 +26,6 @@ public class SourceTests
     [Fact]
     public void SmallObjectTest()
     {
-        var returnValue = Source.InvokeMethod("testClass");
+        var returnValue = Source.InvokeMethod("TestClass");
     }
 }
